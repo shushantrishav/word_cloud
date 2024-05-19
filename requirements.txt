@@ -1,3 +1,6 @@
 pylint 
-matplotlib 
+streamlit
+matplotlib
+python-docx
 wordcloud
+PyMuPDF
